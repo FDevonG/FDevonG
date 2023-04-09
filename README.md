@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FDevonG
-- 👀 I’m passionate about creating websites, web applications and mobile applications.
+- 👀 
 
 
 <!---
